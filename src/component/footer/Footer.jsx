@@ -19,9 +19,9 @@ const Footer = () => {
         <li> <a href='#contact'>Contact</a></li>
       </ul>
     <div className='footer__socials'>
-     <a href='https://www.facebook.com/profile.php?id=100005543657239'><BsFacebook/></a>
-     <a href='https://www.instagram.com/abdelrhman_ragab77/'><AiOutlineInstagram/></a>
-     <a href='https://twitter.com/Abdelrh63623558'><BsTwitter/></a>
+     <a href='https://www.facebook.com/profile.php?id=100005543657239' target="_blank" rel="noreferrer"><BsFacebook/></a>
+     <a href='https://www.instagram.com/abdelrhman_ragab77/' target="_blank" rel="noreferrer"><AiOutlineInstagram/></a>
+     <a href='https://twitter.com/Abdelrh63623558' target="_blank" rel="noreferrer"><BsTwitter/></a>
     </div>
     </footer>
   )
